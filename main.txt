@@ -1,5 +1,2 @@
-hi im marjan
-how are you
-my son is yashar
+hello im main text
 
-its a test for know stash
